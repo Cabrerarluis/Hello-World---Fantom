@@ -1,19 +1,10 @@
 #! /usr/bin/env fan
-//
-// Copyright (c) 2008, Brian Frank and Andy Frank
-// Licensed under the Academic Free License version 3.0
-//
-// History:
-//   11 Apr 08  Brian Frank  Creation
-//
+
 
 using util
 using web
 using wisp
 
-**
-** Boot script for web hello world
-**
 class WebHello : AbstractMain
 {
   @Opt { help = "http port" }
@@ -35,6 +26,6 @@ const class HelloMod : WebMod
   override Void onGet()
   {
     res.headers["Content-Type"] = "text/plain; charset=utf-8"
-    res.out.print("hello world #4")
+    res.out.print("hello world ")
   }
 }
