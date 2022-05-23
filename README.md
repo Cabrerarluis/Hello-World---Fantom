@@ -7,7 +7,7 @@ Fantom se desarrolló inicialmente en 2005 durante un período de estancamiento 
 
   ####    Paradigma:   
   
-  multiparadigmático
+  multiparadigmático - OO
 
   ####    Fortalezas y debilidades 
   
