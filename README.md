@@ -3,7 +3,7 @@ INS340 - Luis Cabrera - ICS - 1087017
   ####    Propósito:
   general, especifico, etc.
   ####    Paradigma: 
-    OO, FP, Proc, Logico, etc.
+  OO, FP, Proc, Logico, etc.
   ####    Fortalezas y debilidades 
   ####    Implementación:
   Compilado, Interpretado, Híbrido, Transpilado, etc.
